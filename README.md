@@ -3,7 +3,7 @@ Trabalho realizado por José Eduardo e William Barbosa para a disciplina de ling
 
 
 Link para Youtube
-OBS:Por limitação de celular(meu celular não queria gravar 5 minutos ininterrupto), tive que splitar em 4 vídeos que somados não passa de 5 minutos de duração, são bem rápidos e estão organizados.
+OBS:Por limitação de celular(o celular não queria gravar 5 minutos ininterruptos), tivemos que splitar em 4 vídeos que somados não passa de 5 minutos de duração, são bem rápidos e estão organizados.
 
 Parte 1 https://youtu.be/SBBgPxKZyag
 Parte 2 https://youtu.be/GAtlYO3q2HE
