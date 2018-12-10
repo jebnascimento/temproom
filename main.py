@@ -77,7 +77,7 @@ try:
     # define a identificação do cliente mqtt que no caso é nosso ESP8266
     client = mqtt.Client("zerynth-mqtt",True)
     # and try to connect to "test.mosquitto.org"
-    #aqui tentamos nos comunicar com o servidor mqtt(broker) através da url abaixo e a porta 60
+    #aqui tentamos se conectar ao servidor mqtt(broker) através da url abaixo e a porta 60
     for retry in range(10):
         try:
             client.connect("test.mosquitto.org", 60)
