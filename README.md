@@ -1,5 +1,7 @@
 # temproom
-Trabalho realizado por José Eduardo e William Barbosa para a disciplina de linguagens de programação durante o período 2018.2 na Universidade Federal do Rio de Janeiro
+Trabalho realizado por José Eduardo e William Barbosa para a disciplina de linguagens de programação durante o período 2018.2 na Universidade Federal do Rio de Janeiro.
+
+O trabalho consiste no uso de MQTT e o ESP8266 para monitoração remota de ambientes.
 
 
 Link para Youtube
